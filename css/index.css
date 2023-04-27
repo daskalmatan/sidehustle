@@ -53,10 +53,6 @@
     font-size: 2vw;
 }
 
-.btn a {
-    text-decoration: none;
-}
-
 /* ändra knappens */
 .imgknapp .btn:hover {
     background-color: rgb(141, 202, 255);
