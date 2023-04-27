@@ -41,6 +41,7 @@
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     background-color: #1c1864;
+    color: white;
     font-size: 16px;
     padding: 12px 24px;
     border: none;
@@ -50,7 +51,6 @@
 
 .btn h2{
     font-size: 2vw;
-    color: white;
 }
 
 .btn a {
@@ -61,9 +61,6 @@
 .imgknapp .btn:hover {
     background-color: rgb(141, 202, 255);
     font-weight: bold;
-}
-
-.btn h2:hover{
     color: black;
 }
 
