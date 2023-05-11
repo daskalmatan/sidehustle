@@ -121,6 +121,7 @@ footer{
 }
 
 .bild{
+    grid-area: 2/2/auto/6;;
     width: 30%
 }
 
